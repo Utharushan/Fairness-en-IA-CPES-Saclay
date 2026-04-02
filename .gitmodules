@@ -1,0 +1,3 @@
+[submodule "Fairness-in-AI"]
+	path = Fairness-in-AI
+	url = git@github.com:rmalapert/Fairness-in-AI.git
